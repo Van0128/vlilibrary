@@ -1,0 +1,5 @@
+rootProject.name='Library Prebid'
+include ':app'
+include ':vlilibrary'
+include ':prebidmobile-core'
+include ':prebidmobile'
